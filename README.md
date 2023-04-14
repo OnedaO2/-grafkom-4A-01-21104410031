@@ -12,6 +12,6 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
+| NIM | 21104410031 |
+| Nama Lengkap | Nugroho Nurwanda Zakaria |
 | Kelas | TI-4A |
